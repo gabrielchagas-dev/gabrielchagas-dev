@@ -1,201 +1,98 @@
-<div align="center">
+﻿# 👋 Olá! Eu sou Gabriel Das Chagas Silva
 
-# 👋 Olá! Eu sou o Gabriel
+**Estudante de Engenharia de Software e Desenvolvimento de Sistemas | Estagiário de TI | Suporte Técnico | Infraestrutura e Cloud**
 
-### 💻 Estudante de Desenvolvimento de Sistemas | Suporte Técnico N1 | Interesse em Infraestrutura
+Sou estudante de Tecnologia da Informação e tenho experiência com suporte técnico, atendimento ao usuário, manutenção de computadores, configuração de sistemas Windows e apoio a ambientes corporativos.
 
-Sou estudante da área de **Tecnologia da Informação**, com experiência prática em **suporte técnico, atendimento ao usuário, manutenção de computadores e configuração de sistemas Windows**.
-
-Atualmente estou desenvolvendo meus conhecimentos em **programação e desenvolvimento de sistemas**, além de buscar ampliar minha experiência nas áreas de **suporte, infraestrutura e sistemas** por meio dos estudos e de projetos práticos.
-
-</div>
-
----
+Atualmente atuo como estagiário de TI na CM Capital Markets, ampliando meus conhecimentos em sistemas, infraestrutura, redes e administração de ambientes corporativos. Também desenvolvo projetos práticos de programação e laboratórios de infraestrutura utilizando Microsoft Azure.
 
 ## 👨‍💻 Sobre mim
 
-* 🎓 Cursando **Engenharia de Software — 2º semestre**
-* 💻 Cursando **Técnico em Desenvolvimento de Sistemas — Etec — 1º semestre**
-* 🖥️ Experiência com **Suporte Técnico N1**
-* 🔧 Conhecimentos básicos em **hardware, software e Windows**
-* 🌐 Interesse em **suporte técnico, infraestrutura e sistemas**
-* 📚 Atualmente desenvolvendo conhecimentos em programação e lógica
-* 🚀 Buscando crescer profissionalmente e aprender novas tecnologias
+- 🎓 Engenharia de Software — Universidade Anhanguera.
+- 💻 Técnico em Desenvolvimento de Sistemas — Etec.
+- 🏢 Estagiário de TI — CM Capital Markets.
+- 🖥️ Experiência anterior como Assistente de Suporte Técnico — Clicksoft Sistemas.
+- ☁️ Estudos práticos de Microsoft Azure e infraestrutura.
+- 🔧 Interesse em redes, sistemas, cloud e segurança da informação.
+- 🚀 Buscando evoluir profissionalmente por meio de estudos e projetos práticos.
 
----
+## 🛠️ Tecnologias e conhecimentos
 
-## 🛠️ Tecnologias em aprendizado
+**Desenvolvimento**
+- Python, C, JavaScript
+- HTML5 e CSS3
+- Node.js e Express
+- SQL — conhecimentos iniciais
+- Git e GitHub
 
-<div align="center">
+**Suporte e infraestrutura**
+- Windows e suporte técnico
+- Hardware e software
+- Instalação, configuração e manutenção de computadores
+- Active Directory e GPO — contato prático em laboratório e ambiente corporativo
+- Windows Server
+- WSUS e ferramentas de suporte corporativo
+- Redes virtuais, sub-redes e NSG
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C" alt="C"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
-
-</div>
-
----
-
-## 🔧 Suporte e tecnologia
-
-![Windows](https://img.shields.io/badge/Windows-Configuração%20e%20Suporte-0078D6?style=flat-square\&logo=windows\&logoColor=white)
-![Help Desk](https://img.shields.io/badge/Help%20Desk-Suporte%20N1-0A66C2?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-Manutenção%20Básica-555555?style=flat-square)
-![Software](https://img.shields.io/badge/Software-Instalação%20e%20Configuração-6C757D?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Projetos%20e%20Estudos-181717?style=flat-square\&logo=github\&logoColor=white)
-
-Tenho experiência prática com:
-
-* Suporte presencial e remoto
-* Instalação e configuração do Windows
-* Formatação de computadores
-* Diagnóstico básico de hardware e software
-* Configuração de impressoras, drivers e programas
-* Atendimento e suporte ao usuário
-* Apoio em sistemas comerciais
-
----
+**Cloud e automação**
+- Microsoft Azure
+- Azure CLI
+- PowerShell
+- Máquinas virtuais e organização de recursos em cloud
 
 ## 💼 Experiência profissional
 
-### 🖥️ Assistente de Suporte Técnico — Clicksoft Sistemas
+### Estagiário de TI — CM Capital Markets
+**Setembro de 2026 — Atual**
 
-**Mar/2025 — Dez/2025**
+Atuação na área de Tecnologia da Informação, com contato com suporte técnico, sistemas e infraestrutura corporativa.
 
-Atuação com suporte técnico presencial e remoto para clientes e usuários.
+- Suporte técnico N1 e contato com demandas de maior complexidade.
+- Preparação e configuração de estações Windows e ingresso no domínio.
+- Contato com Active Directory, usuários, computadores e políticas GPO.
+- Contato com WSUS, antivírus corporativo e ferramentas de administração.
+- Participação em atualizações de sistemas corporativos.
+- Contato com servidores, acesso remoto, backup e rotinas de infraestrutura.
 
-Principais atividades:
+### Assistente de Suporte Técnico — Clicksoft Sistemas
+**Março de 2025 — Dezembro de 2025**
 
-* Atendimento e resolução de problemas técnicos
-* Instalação e configuração de computadores Windows
-* Formatação e manutenção básica de computadores
-* Diagnóstico de hardware, software e periféricos
-* Configuração de impressoras, drivers e programas
-* Apoio em sistemas comerciais
-* Organização de demandas internas
+- Suporte presencial e remoto para clientes e usuários.
+- Instalação, configuração e formatação de computadores Windows.
+- Diagnóstico de hardware, software e periféricos.
+- Configuração de impressoras, drivers e programas.
+- Apoio em sistemas comerciais e organização de demandas internas.
 
----
+## ☁️ Laboratórios e projetos de infraestrutura
 
-## 🚀 Projetos
+### Laboratório prático de Microsoft Azure
+Projeto de estudos para compreender recursos de cloud e infraestrutura.
 
-### 🔐 Sistema de Login com Automação de E-mail
+- Organização de Resource Groups e recursos Azure.
+- Criação e configuração de máquinas virtuais.
+- Estudos de redes virtuais, sub-redes e Network Security Groups.
+- Administração de recursos por Azure CLI e PowerShell.
+- Laboratório de Windows Server e identidade com Active Directory.
 
-`Node.js` `Express` `APIs`
+## 🚀 Projetos de desenvolvimento
 
-Projeto desenvolvido para aprendizado inicial de backend e APIs.
+- [Sistema de Login](https://github.com/gabrielchagas-dev/login-system) — autenticação e automação de e-mail com Node.js e Express.
+- [Dashboard Porsche AI Agents](https://github.com/gabrielchagas-dev/dashboard-porsche-ai-agents) — dashboard de vendas com dados fictícios e agentes de IA.
+- [Consumo de Água](https://github.com/gabrielchagas-dev/consumo-agua) — classificador acadêmico em Python.
+- [Sistema de Desconto Progressivo](https://github.com/gabrielchagas-dev/sistema-desconto-progressivo) — exercício acadêmico em Python.
 
-* Cadastro e login de usuários
-* Autenticação
-* Recuperação de acesso
-* Criação de rotas utilizando Node.js e Express
-* Envio automático de e-mails
-* Prática de conceitos iniciais de aplicações web
+## 🎓 Formação e estudos complementares
 
----
-
-### 📊 Dashboard AI Reports
-
-`Excel` `IA` `Automação` `Análise de Dados`
-
-Projeto voltado para organização e análise de informações.
-
-* Criação de dashboard visual
-* Organização de dados e relatórios
-* Uso de GPT Agents
-* Uso de Claude Code
-* Aplicação de inteligência artificial em produtividade e análise de informações
-
----
-
-### 🚀 Simulação de Missão Espacial
-
-`Python`
-
-Projeto acadêmico desenvolvido para praticar fundamentos da linguagem Python.
-
-* Entrada de dados
-* Operações matemáticas
-* Cálculos de distância e velocidade
-* Conversão de horas para dias
-* Uso de f-strings
-* Organização do código
-
----
-
-### 🔢 Programação Estruturada
-
-`C` `VisuAlg`
-
-Práticas acadêmicas voltadas ao desenvolvimento da lógica de programação.
-
-* Estruturas condicionais
-* Estruturas de repetição
-* Operadores aritméticos, relacionais e lógicos
-* Laços `while`
-* Acumuladores
-* Pseudocódigo
-* Lógica de programação
-
----
-
-## 🎓 Formação acadêmica
-
-### 💻 Engenharia de Software
-
-**Universidade Anhanguera**
-
-📚 Cursando — **2º semestre**
-
-### 🖥️ Técnico em Desenvolvimento de Sistemas
-
-**Etec**
-
-📚 Cursando — **1º semestre**
-
----
-
-## 📚 Cursos e conhecimentos complementares
-
-* ☕ Bootcamp Santander — **Java com Spring Boot**
-* 📊 **Análise de Dados**
-* 🤖 AI Reports com **Excel, GPT Agents e Claude Code**
-* 🗄️ Contato inicial com **SQL e banco de dados**
-* 🧰 GitHub e ferramentas básicas de desenvolvimento
-
----
-
-## 🤝 Habilidades
-
-<div align="center">
-
-`Comunicação` • `Organização` • `Trabalho em equipe`
-
-`Proatividade` • `Aprendizagem rápida` • `Resolução de problemas`
-
-</div>
-
----
+- Engenharia de Software — Universidade Anhanguera.
+- Técnico em Desenvolvimento de Sistemas — Etec.
+- Bootcamp Santander — Java com Spring Boot.
+- Estudos de análise de dados, SQL, automação e inteligência artificial.
 
 ## 📫 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Chagas-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabrielchagas-dev)
-
-[![Gmail](https://img.shields.io/badge/Gmail-sleorleor%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sleorleor@gmail.com)
-
-</div>
+- E-mail: [sleorleor@gmail.com](mailto:sleorleor@gmail.com)
+- LinkedIn: [linkedin.com/in/gabrielchagas-dev](https://www.linkedin.com/in/gabrielchagas-dev)
+- Portfólio: [gabrielchagas-dev.github.io/portfolio-gabriel-chagas](https://gabrielchagas-dev.github.io/portfolio-gabriel-chagas/)
 
 ---
-
-<div align="center">
-
-### 🚀 Aprendendo, praticando e evoluindo um projeto de cada vez.
-
-💻 **Tecnologia • Suporte • Desenvolvimento • Aprendizado contínuo**
-
-</div>
+**Aprendendo, praticando e evoluindo um projeto de cada vez.**
